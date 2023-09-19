@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @venkatasai23
 - 👀 I’m interested in Devops/Data Engineering
-- 🌱 I’m currently learning Devops and data Frameworks
+- 🌱 I’m currently learning Devops and Data Frameworks
 - 💞️ I’m looking to collaborate on Devops Projects and Open source contributions
 - 📫 Reach Me through potnuruvenkatasai@gmail.com
 
