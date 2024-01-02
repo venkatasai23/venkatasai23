@@ -18,6 +18,7 @@
 <p align="left">
 <a href="https://twitter.com/venkatasaip" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="venkatasaip" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/venkatasai99" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="venkatasai99" height="30" width="40" /></a>
+<a href="https://www.instagram.com/venkatasai_potnuru/" target="blank"><img align="center" src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="venkatasai_potnuru" height="30" width="40" /></a> 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
