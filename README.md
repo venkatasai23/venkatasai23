@@ -8,6 +8,8 @@
 <!--<p align="left"> <a href="https://twitter.com/venkatasaip" target="blank"><img src="https://img.shields.io/twitter/follow/venkatasaip?logo=twitter&style=for-the-badge" alt="venkatasaip" /></a> </p>-->
 
 - 🌱 I’m currently learning **DevOps, Data Engineering, Web Technologies**
+  
+- I'm Looking for DevOps Opportunities.
 
 - 💬 Ask me about **AWS, Azure, Python, Dockers, Kubernetes, React, CI/CD, Jenkins, Git**
 
