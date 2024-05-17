@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Venkata Sai Potnuru</h1>
-<h3 align="center">A passionate DevOps Engineer with 2.8 years of experience from India Looking for cool Opportunities #Remotework #opportunities #Webdevelopment #DevOps #remote #Dataengineering #Datascience</h3>
+<h3 align="center">A passionate DevOps Engineer with 3.1 years of experience on DOckers,Kubernetes and other fun tools looking for an interesting oppotunity to showcase my skillset. #Remotework #opportunities #Webdevelopment #DevOps #remote #Dataengineering #Datascience</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=venkatasai23&label=Profile%20views&color=0e75b6&style=flat" alt="venkatasai23" /> </p>
 
