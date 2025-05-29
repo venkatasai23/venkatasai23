@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **AWS, Azure, Python, Dockers, Kubernetes, React, CI/CD, Jenkins, Git**
 
-- 📫 How to reach me **potnuruvenkatasai@gmail.com**
+- 📫 How to reach me **venkatasaipotnuru@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
